@@ -407,6 +407,7 @@ body {
   padding: 10px;
 }
 
+
 @media (min-width: 768px) {
   .navbar {
     flex-direction: row;
